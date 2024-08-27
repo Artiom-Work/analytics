@@ -615,6 +615,7 @@ main {
 
 .pricing-plans__wrp>.pricing-plans__btn:hover {
 	background-color: #FFFFFF;
+	color: #EF2A82;
 	border: 1px solid #EF2A82;
 }
 
