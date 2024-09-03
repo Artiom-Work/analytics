@@ -1254,7 +1254,6 @@ footer {
 		min-height: 428px;
 		overflow: hidden;
 		overflow-x: scroll;
-
 	}
 
 	.pricing-plans__list-wrp::-webkit-scrollbar {

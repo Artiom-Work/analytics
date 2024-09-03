@@ -52,6 +52,9 @@ signUpForm.addEventListener('submit', (e) => {
 	};
 });
 
+// initial position for mobile slider scroll
+document.getElementById('scrollable').scrollLeft = 0;
+
 
 
 
